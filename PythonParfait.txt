@@ -1,0 +1,12 @@
+ZOMG! We think this is encrypted with 3 different methods, how to solve??? 
+Luckily, this hacker carries his notebook full of keys around 
+and we pickpocketed it off him. But we could only make out two lines...
+
+abcdefghijklmnopqrstuvwxyz."_/\
+qazw"sxedcrf\vtgbyhn.ujm/i_kolp
+
+Here's the string to decode:
+
+
+
+string = 'zq\"hqye.h.ibwb/.snw\\ig.md.rq/ty/z\\idu_vyytjef\\recfxe/_sqfl/.zji\\eorwsi\\mcoyirmea_c\\d nim\ns asf \\ fzr\ngsr w kjffqjnjxrgvs\\em gb m n\\e!k\neeez/c/ gfi\niv\"uuwm'
