@@ -8,5 +8,9 @@ qazw"sxedcrf\vtgbyhn.ujm/i_kolp
 Here's the string to decode:
 
 
+'zq"hqyle.h.ibwbo/.snw\ig.ml.zdc/j\echfbn_vi\mwvm.dbcnabs_ydcl/zmsxhnod\seexbowedxec_hnt amx\nv r\y . .zh\ni.\ f kjnxcwidtd/vveb" a/ x aeb!k\ngsbzx"e ume\ndv\b"rw'
 
-string = 'zq\"hqye.h.ibwb/.snw\\ig.md.rq/ty/z\\idu_vyytjef\\recfxe/_sqfl/.zji\\eorwsi\\mcoyirmea_c\\d nim\ns asf \\ fzr\ngsr w kjffqjnjxrgvs\\em gb m n\\e!k\neeez/c/ gfi\niv\"uuwm'
+
+(If you want the extra challenge, make sure all your codes can handle uppercase:)
+
+'zq"hqyle.h.ibwbo/.snw\ig.ml.zdc/j\echfbn_vi\mwvm.dbcnabs_ydcl/zmsxhnod\seexbowedxec_hnt AMX\nV R\Y . .ZH\nI.\ F kJnxcwidtd/vveb" a/ X aeb!k\nGSBZX"E UME\nDV\B"RW'
