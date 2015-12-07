@@ -17,7 +17,7 @@ def checkKey(key):
 def Sub(text, key, mode): #'e' or 'd' for encrypt or decrypt
 	checkKey(key)
 	mydict = dict(zip(alf, key))
-	flipped = {v: k for k, v in mydict.items()}
+	flipped = {v: k for k, v in mydict.items()} #or: flipped = dict(zip(key, alf))
 	new = ''
 	if mode == 'e':
 		for l in text:
